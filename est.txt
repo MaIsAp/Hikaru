@@ -1,0 +1,53 @@
+Nashiro
+Curutchet
+Poodts
+Roberts
+Barri
+Andrade
+
+Secretaria de centro de investigaciones alergicas y pulmonares
+4408895 (máx 1800mil)
+
+
+
+REFERENCIA PILA RELOJ sr726sw
+
+av cordoba 772 esquina esmeralda  48576908 Pilar 354 buque rapido 12:45 vuelve a 9
+
+
+Beca para doctorado o maestría en USA
+
+Graduate Research MS/PhD Assistantships: effects of dispersal on spatial pattern and temporal dynamics, and the effects of environmental stochasticity and environmental change on populations and communities.
+
+Abbott Lab (tinyurl.com/AbbottLab), Department of Biology Case Western Reserve University, Cleveland, Ohio
+
+I currently have openings in my lab for graduate students interested in pursuing research in theoretical ecology. Work in my lab revolves around two broad themes: effects of dispersal on spatial pattern and temporal dynamics, and the effects of environmental stochasticity and environmental change on populations and communities. We use mathematical models to answer basic ecological questions in a range of systems, and I encourage students to develop their own research directions within these broad themes.
+
+The Department of Biology at Case Western Reserve University has a very active ecology and evolutionary biology group. Our faculty have research programs in ecological theory (Karen Abbott and Robin Snyder), plant community ecology and phylogenetics (Jean Burns), amphibian ecology, evolution and conservation (Mike Benard), biotic and abiotic drivers of adaptive evolution (Ryan Martin), and consequences of climate and land-use change (Sarah Diamond). Nearby opportunities for field research exist at the university's farm, Holden Arboretum, and the large Cleveland Metroparks system. 
+
+Case Western Reserve University is one of the nation's top universities and has a very strong research focus. It is located about 5 miles east of downtown Cleveland, a mid-sized city with world-class cultural institutions, a fabulous restaurant scene, and professional sports teams that are just bad enough that you can afford the tickets.
+
+Interested applicants should contact me at kcabbott@case.edu with a CV and a short description of research plans and goals, showing a clear emphasis on ecological theory. More information on the graduate program can be found at
+http://www.case.edu/artsci/biol/academics/grad.html
+and application guidelines are at 
+http://www.case.edu/artsci/biol/academics/gradadmission.html.
+
+
+quisiera tener una idea de cómo tienes los datos para hacer un avance de lo 
+que podría realizar y así exponer una idea más puntual, 
+pues existen diferentes formas de analizar los datos, 
+pero todo depende de su estructura y la información que brinden.
+
+tipo de post
+
+personas más frecuentes y esporádicos
+
+cuántas personas en promedio le están dando likes (mínimos, máximos)
+
+comentarios
+
+shares
+
+tasa de compromiso en el tiempo (x día o x hora)
+
+identificar palabras clave
